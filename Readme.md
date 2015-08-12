@@ -1,7 +1,7 @@
 # Soap [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url]
 > A SOAP client and server for node.js.
 
-This module lets you connect to web services using SOAP.  It also provides a server that allows you to run your own SOAP services.
+This module lets you connect to web services using SOAP.  It also provides a server that allows you to run your own SOAP services. Forked to enable xsd:import resolution in server mode.
 
 ## Features:
 
